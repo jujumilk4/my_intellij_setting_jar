@@ -1,0 +1,2 @@
+# my_intellij_setting_jar
+my_intellij_setting_jar
